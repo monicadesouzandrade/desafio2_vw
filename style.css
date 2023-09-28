@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: DarkTurquoise;
+    height: 10vh;
+}
+
+li{
+    display:inline-block;
+    margin-left: 230px;
+    margin-top: 25px;
+}
+a{
+    color:white;
+    font-weight: bold;
+}
+
+.loja{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top:30px;
+    padding-left: 50px;
+}
+img{
+    width: 250px;
+}
+
+h3,button{
+    margin-left:80px;
+    margin-top: 20px;
+}
+
+.formulario{
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer{
+background-color:DarkTurquoise;
+height: 15vh;
+font-weight: bold;
+margin-top: 50px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.dadosdocliente{
+    margin-bottom: 25px;
+    padding-left: 50px;
+    font-size:20px;
+}
+
+.botao{
+    font-size:20px;
+}
+
